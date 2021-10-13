@@ -1,2 +1,4 @@
 pandas==1.3.*
 rich==10.*
+requests==2.*
+ipykernel==6.*
